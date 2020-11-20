@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/reactJSBassRiff/static/css/main.76fce9d6.chunk.css",
+    "main.js": "/reactJSBassRiff/static/js/main.ef6b9046.chunk.js",
+    "main.js.map": "/reactJSBassRiff/static/js/main.ef6b9046.chunk.js.map",
+    "runtime-main.js": "/reactJSBassRiff/static/js/runtime-main.6c5fc509.js",
+    "runtime-main.js.map": "/reactJSBassRiff/static/js/runtime-main.6c5fc509.js.map",
+    "static/js/2.174c7619.chunk.js": "/reactJSBassRiff/static/js/2.174c7619.chunk.js",
+    "static/js/2.174c7619.chunk.js.map": "/reactJSBassRiff/static/js/2.174c7619.chunk.js.map",
+    "static/js/3.cf6eaaba.chunk.js": "/reactJSBassRiff/static/js/3.cf6eaaba.chunk.js",
+    "static/js/3.cf6eaaba.chunk.js.map": "/reactJSBassRiff/static/js/3.cf6eaaba.chunk.js.map",
+    "index.html": "/reactJSBassRiff/index.html",
+    "static/css/main.76fce9d6.chunk.css.map": "/reactJSBassRiff/static/css/main.76fce9d6.chunk.css.map",
+    "static/js/2.174c7619.chunk.js.LICENSE.txt": "/reactJSBassRiff/static/js/2.174c7619.chunk.js.LICENSE.txt",
+    "static/media/backgroundAudio.d05ef5fe.mp3": "/reactJSBassRiff/static/media/backgroundAudio.d05ef5fe.mp3",
+    "static/media/eighthNote.72db9762.mp3": "/reactJSBassRiff/static/media/eighthNote.72db9762.mp3",
+    "static/media/fifthNote.8a2a0265.mp3": "/reactJSBassRiff/static/media/fifthNote.8a2a0265.mp3",
+    "static/media/firstNote.badf7ef9.mp3": "/reactJSBassRiff/static/media/firstNote.badf7ef9.mp3",
+    "static/media/fourthNote.af872a55.mp3": "/reactJSBassRiff/static/media/fourthNote.af872a55.mp3",
+    "static/media/index.css": "/reactJSBassRiff/static/media/maxresdefault.402c31bf.jpg",
+    "static/media/secondNotes.ff9bb49f.mp3": "/reactJSBassRiff/static/media/secondNotes.ff9bb49f.mp3",
+    "static/media/seventhNote.42577256.mp3": "/reactJSBassRiff/static/media/seventhNote.42577256.mp3",
+    "static/media/sixthNote.46a9f9c8.mp3": "/reactJSBassRiff/static/media/sixthNote.46a9f9c8.mp3",
+    "static/media/thirdNote.9be88007.mp3": "/reactJSBassRiff/static/media/thirdNote.9be88007.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c5fc509.js",
+    "static/js/2.174c7619.chunk.js",
+    "static/css/main.76fce9d6.chunk.css",
+    "static/js/main.ef6b9046.chunk.js"
+  ]
+}
